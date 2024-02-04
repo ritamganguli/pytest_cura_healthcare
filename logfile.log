@@ -1,0 +1,9 @@
+2024-02-04 22:20:40,817 :INFO : test_title :The title of the page is: CURA Healthcare Service
+2024-02-04 22:20:51,311 :INFO : test_title :Proceeding with booking the appointment
+2024-02-04 22:21:01,520 :INFO : test_title :Entering The Username And Password
+2024-02-04 22:21:12,169 :INFO : test_title :Proceeding with login
+2024-02-04 22:21:12,179 :INFO : test_title :Succefully verified that the person is on appointment page
+2024-02-04 22:21:27,336 :INFO : test_title :Selected Seol Cura Health Care Center
+2024-02-04 22:21:42,521 :INFO : test_title :Selected Date
+2024-02-04 22:21:57,925 :INFO : test_title :Clicked On Appointment Button
+2024-02-04 22:21:57,978 :INFO : test_title :Successfully booked the appointment
